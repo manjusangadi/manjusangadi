@@ -1,4 +1,4 @@
-                    # Hi 👋, I'm Manjunath S Angadi
+  # Hi 👋, I'm Manjunath S Angadi
 I am CS Engineering
 
 
