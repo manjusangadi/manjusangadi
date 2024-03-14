@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Manjunath S Angadi
 I am CS Engineering
 
 
