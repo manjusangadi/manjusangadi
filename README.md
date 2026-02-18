@@ -1,4 +1,4 @@
-  # Hi 👋, I'm Manju S Angadi
+  # Hi 👋, I'm Manju Angadi
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_manju_angadi?igsh=MTExMmh6b2Zhajh3OA==) 
