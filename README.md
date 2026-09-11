@@ -139,8 +139,8 @@ Regularly practicing problem-solving across:
 
 `Arrays` · `Strings` · `Matrix` · `Hashing` · `Linked Lists` ·
 `Stack & Queue` · `Recursion` · `Trees` · `Graphs` · `Greedy` ·
-`Dynamic Programming` · `Bit Manipulation` · `Searching & Sorting` ·
-`Sliding Window` · `Two Pointers` · `Backtracking`
+`Dynamic Programming`  · `Searching & Sorting` ·
+`Sliding Window` · `Two Pointers` 
 
 🏅 **LeetCode — 50 Days Badge (Python)**  
 ⭐ **HackerRank — 4-Star Badge**
